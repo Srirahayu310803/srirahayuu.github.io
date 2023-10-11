@@ -1,0 +1,13 @@
+body {
+    background-color: lightcoral;
+}
+.ayu {
+    width: 200px;
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
